@@ -54,7 +54,7 @@
       <form method="POST" action="tambahact.php" enctype="multipart/form-data" >
       <section class="base">
         <center>
-        <h1>Tambah Produk</h1>
+        <h1>Tambah Buku</h1>
         <center>
         <div>
           <label>Judul Buku</label>
