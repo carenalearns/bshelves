@@ -1,0 +1,138 @@
+.cont {
+	border :20px solid rbga(0,0,0,.5);
+	width: 400px; height: 200px;
+	position: fixed;
+	top: 50%; left: 50%;
+	margin-top: -300px;
+	margin-left: -240px;
+	padding: 40px;
+	display: table;
+	}
+.box {
+	width: 400px; height: 480px; 
+	border-radius: 10px;
+	overflow: hidden;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	vertical-align: center;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background: #FFECD9;
+	border-radius: 25px; 
+	box-shadow: 0 0 5px 5px;
+	color: rgba(0, 0, 0, 0.2);
+	}
+.tengah {
+	margin-top: 40px;
+	}
+.judul{
+	font-family: Montserrat-Bold;
+	font-size: 24px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	display: block;
+	padding-bottom: 54px;
+	}
+.btn{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 20px;
+	}
+.b1 a {
+	background: #3b5998;
+	font-family: Montserrat-Bold;
+	text-transform: uppercase; font-weight: bold;
+	font-size: 15px;
+	line-height: 1.5;
+	color: #fff;
+	height: 50px; width: 280px;
+	border-radius: 25px;
+	margin-left: 35px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0 25px;
+	text-decoration: none;
+	}
+.b1 a:link {
+	background: #3b5998;
+	}
+.b1 a:visited {
+	background: #3b5998;
+	}
+.b1 a:hover {
+	background: #333333;
+	}
+.b2 a {
+	background: #FF3300;
+	font-family: Montserrat-Bold;
+	text-transform: uppercase; font-weight: bold;
+	font-size: 15px;
+	line-height: 1.5;
+	color: #fff;
+	height: 50px; width: 280px;
+	border-radius: 25px;
+	margin-left: 35px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0 25px;
+	text-decoration: none;
+	}
+.b2 a:link {
+	background: #FF3300;
+	}
+.b2 a:visited {
+	background: #FF3300;
+	}
+.b2 a:hover {
+	background: #333333;
+	}
+.b3 a {
+	background: #00acee;
+	font-family: Montserrat-Bold;
+	text-transform: uppercase; font-weight: bold;
+	font-size: 15px;
+	line-height: 1.5;
+	color: #fff;
+	height: 50px; width: 280px;
+	border-radius: 25px;
+	margin-left: 35px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0 25px;
+	text-decoration: none;
+	}
+.b3 a:link {
+	background: #00acee;
+	}
+.b3 a:visited {
+	background: #00acee;
+	}
+.b3 a:hover {
+	background: #333333;
+	}
